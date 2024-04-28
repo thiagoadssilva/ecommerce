@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'thiagoadssilva/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'c0ae9bdcd8264da165611de217f6d7f56e13abab',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'thiagoadssilva/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'c0ae9bdcd8264da165611de217f6d7f56e13abab',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
