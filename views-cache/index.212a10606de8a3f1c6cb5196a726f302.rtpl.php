@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><h1>Thiago jose da silva</h1>

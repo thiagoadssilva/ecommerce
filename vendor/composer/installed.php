@@ -3,7 +3,7 @@
         'name' => 'thiagoadssilva/ecommerce',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'c0ae9bdcd8264da165611de217f6d7f56e13abab',
+        'reference' => '8a8e6cdb6b4d1d441c4d7feb0441be6eb2166578',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'thiagoadssilva/ecommerce' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'c0ae9bdcd8264da165611de217f6d7f56e13abab',
+            'reference' => '8a8e6cdb6b4d1d441c4d7feb0441be6eb2166578',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
